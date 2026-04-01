@@ -14,10 +14,6 @@ It analyzes Twitter data to understand user engagement such as likes, retweets, 
 ## Tools Used
 - Microsoft Power BI
 
-## Project Access
-Power BI file is shared via Google Drive:
-(https://drive.google.com/file/d/1UOwv8bxSY46y6C86vcTnUtLblB0y4otn/view?usp=sharing)
-
 ## Screenshots of tasks 
 ## Task 1: Clustered Bar Chart
 This chart compares URL clicks, profile clicks, and hashtag clicks using filters like time and word count.
