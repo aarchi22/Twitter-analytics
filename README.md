@@ -16,7 +16,5 @@ It analyzes Twitter data to understand user engagement such as likes, retweets, 
 
 ## Project Access
 Power BI file is shared via Google Drive:
-(Add your Drive link here)
+(https://drive.google.com/file/d/1UOwv8bxSY46y6C86vcTnUtLblB0y4otn/view?usp=sharing)
 
-## Author
-Aarchi R. Luhana
